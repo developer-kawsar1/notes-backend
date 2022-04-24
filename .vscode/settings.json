@@ -1,0 +1,8 @@
+
+    { 
+        "workbench.colorCustomizations": {
+            "titleBar.activeBackground": "#614307" ,// Change this color!
+            "titleBar.inactiveBackground": "#614307" ,// Change this color!
+          },
+        //   "window.titleBarStyle": "green"
+    }
